@@ -1,0 +1,65 @@
+*{
+  padding:0;
+  margin: 0;
+}
+main{
+  margin: 0 auto;
+  background-color: #F8F8F8;
+  max-width:100%;
+  min-width: 50%;
+
+}
+img{
+  border-radius: 20px;
+  width: 40%;
+  padding: 20px;
+  border-style: dotted;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: -20px;
+}
+section{
+  border: 5px solid #F5F5F5;
+  background-color: #FFFAFA;
+}
+p{
+  width: 50%;
+  float: right;
+  line-height: 2.3;
+  margin-right: 30px;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 18px;
+
+}
+h2{
+  margin-left: 200px;
+  font-size: 30px;
+  padding-top: 20px;
+  font-family: fantasy;
+
+}
+h3{
+  margin-left: 600px;
+  font-family:serif;
+  font-size: 25px;
+}
+span{
+  font-weight:bold;
+  font-style: italic;
+}
+#topic{
+  text-align: center;
+  font-size: 40px;
+}
+#footer{
+  font-family: fantasy;
+}
+#section2,#section4{
+  background-color: #F5F5F5;
+}
+#img1,#img3{
+  background-color: #F5F5F5;
+}
+#img2,#img4{
+  background-color:#FFFAFA;
+}
